@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning both of them along with courses
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Do not try!
-- 😄 Pronouns: ... Human
+- 😄 Pronouns: ... Lord / Sir
 - ⚡ Fun fact: ...
 
 <!---
