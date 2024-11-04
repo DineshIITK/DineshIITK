@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dinesh
 - 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning both of them along with courses
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning both of them along with courses(ofcourse, along with the university)
 - 📫 How to reach me ... Do not try!
 - 😄 Pronouns: ... Lord / Sir
 - ⚡ Fun fact: ...
